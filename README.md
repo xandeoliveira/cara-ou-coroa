@@ -2,6 +2,8 @@
 
 Este é um projeto simples que simula o clássico jogo de "Cara ou Coroa" utilizando HTML, CSS e JavaScript. O usuário pode lançar a moeda virtualmente e obter um resultado aleatório entre "Cara" ou "Coroa".
 
+Acesso em [https://xandeoliveira.github.io/cara-ou-coroa/](https://xandeoliveira.github.io/cara-ou-coroa/)
+
 ## Funcionalidades
 
 - Simulação de um lançamento de moeda com resultado aleatório.
