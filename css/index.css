@@ -1,15 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@0,200;0,300;0,400;0,500;0,600;0,700&display=swap');
+
 *
 {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
 }
 
 body
 {
 	overflow: hidden;
 	background: linear-gradient(90deg, #FA9A11, #E36605, #E36605, #E36605, #FA9A11);
-	font-family: consolas;
 }
 
 main
@@ -49,9 +51,13 @@ button
 	letter-spacing: 1px;
 	background-color: #FFFD6C; 
 }
+button:hover
+{
+	cursor: pointer;
+}
 
 p
 {
-	font-size: 14pt;
+	font-size: 16pt;
 	letter-spacing: .5px
 }
